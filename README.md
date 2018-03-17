@@ -32,4 +32,4 @@ python mass-remote --port 1337
 ### Crie seu próprio executável autônomo
 Se preferir não usar um dos binários pré-construídos, você pode facilmente criar seu próprio executável assim:
 No Windows, você precisará:
-- [1] - Python 2.7.x 
+- Python 2.7.x 
