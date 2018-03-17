@@ -33,3 +33,7 @@ python mass-remote --port 1337
 Se preferir não usar um dos binários pré-construídos, você pode facilmente criar seu próprio executável assim:
 No Windows, você precisará:
 - Python 2.7.x 
+- PyInstaller
+- PyCrypto 2.6 para Python 2.7
+- PyWin32
+- pefile
