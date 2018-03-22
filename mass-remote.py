@@ -14,7 +14,7 @@ import time
 import socket
 
 try:
-	try:
+    try:
         import readline
     except ImportError:
         import pyreadline as readline
